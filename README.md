@@ -1,2 +1,2 @@
-# Tabela_Peri-dica
-Tarefa do curso Descodificadas
+# Tabela Periódica
+Tarefa do curso Descodificadas - Trilha 2
